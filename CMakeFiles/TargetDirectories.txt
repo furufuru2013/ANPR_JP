@@ -1,0 +1,4 @@
+/home/tetsuo/src/code-master/Chapter5_NumberPlateRecognition/CMakeFiles/ANPR.dir
+/home/tetsuo/src/code-master/Chapter5_NumberPlateRecognition/CMakeFiles/evalOCR.dir
+/home/tetsuo/src/code-master/Chapter5_NumberPlateRecognition/CMakeFiles/trainOCR.dir
+/home/tetsuo/src/code-master/Chapter5_NumberPlateRecognition/CMakeFiles/trainSVM.dir
